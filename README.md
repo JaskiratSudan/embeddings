@@ -1,4 +1,4 @@
-# 🧠 Contrastive Learning with Siamese Neural Network (MNIST)
+# Contrastive Learning with Siamese Neural Network
 
 This project implements a **Siamese Neural Network** using **contrastive learning** to measure similarity between handwritten digit images from the **MNIST dataset**. A lightweight **GUI** is included for testing similarity, classification, and visualizing learned embeddings.
 
