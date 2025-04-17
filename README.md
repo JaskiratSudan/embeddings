@@ -4,6 +4,8 @@ This project implements a **Siamese Neural Network** using **contrastive learnin
 
 <img width="912" alt="Screenshot 2025-04-17 at 19 48 27" src="https://github.com/user-attachments/assets/b998b3ef-b7e9-49fc-93c3-b22e2de8650a" />
 
+![tmpqnk 2siz](https://github.com/user-attachments/assets/b70fb9fd-23ff-4d4a-b72e-4e4cf7fa22ce)
+
 ---
 
 ## 🚀 Project Overview
